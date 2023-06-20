@@ -1,11 +1,11 @@
 
 # MovieSeriesInfoBot
 
-MovieSeriesInfoBot is a Telegram bot that provides information about movies and TV series. It leverages the power of the OMDB API to fetch details such as ratings, plot summaries, cast members, and more. With MovieSeriesInfoBot, users can directly access valuable information about their favourite movies and TV shows within the Telegram messaging platform.
+MovieSeriesInfoBot is a Telegram bot that provides information about movies and TV series. It leverages the power of the OMDB API to fetch details such as ratings, plot summaries, cast members, and more. With MovieSeriesInfoBot, users can access valuable information about their favourite movies and TV shows within the Telegram messaging platform.
 
 
 ## Screenshots
-![1687282088086](https://github.com/avanishgarg/MovieSeriesInfoBot/assets/44157009/38476cb3-7819-443c-a11f-84f8ac26c1b2)
+![1687282088086](https://github.com/avanishgarg/MovieSeriesInfoBot/assets/44157009/38476cb3-7819-443c-a11f-84f8ac26c1b2 {width=40px height=400px})
 
 
 

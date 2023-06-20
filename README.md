@@ -6,7 +6,7 @@ MovieSeriesInfoBot is a Telegram bot that provides information about movies and 
 
 ## Screenshots
 
-<a href="url"><img src="[http://url.to/image.png](https://github.com/avanishgarg/MovieSeriesInfoBot/assets/44157009/38476cb3-7819-443c-a11f-84f8ac26c1b2)" align="left" height="48" width="48" ></a>
+<img src="[http://url.to/image.png](https://github.com/avanishgarg/MovieSeriesInfoBot/assets/44157009/38476cb3-7819-443c-a11f-84f8ac26c1b2)" align="left" height="48" width="48" >
 ![1687282088086](https://github.com/avanishgarg/MovieSeriesInfoBot/assets/44157009/38476cb3-7819-443c-a11f-84f8ac26c1b2 {width=40px height=400px})
 
 

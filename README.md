@@ -54,7 +54,9 @@ git clone https://github.com/avanishgarg/MovieSeriesInfoBot.git
 
 4. Create your bot using the [BotFather](https://t.me/BotFather) and obtain an API Key for your Bot
 
-5. Run the Bot
+5. Add these keys in their respective placeholders.
+
+6. Run the Bot
 ```bash
 python MovieSeriesInfoBot.py
 ```
